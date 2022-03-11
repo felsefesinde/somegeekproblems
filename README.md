@@ -1,5 +1,6 @@
 # somegeekproblems
-This is a problem prepared by me for IEEE Bilkent Student Branch "Code-IT or Leave It!" Warmup Round 2022. This was the Problem A, and this repository is prepared to make other developers fork the problem and contribute to the repository by enhancing the approaches to the problem to bring out much better solutions. Eveyone is allowed to derive new problems by forking these problems from IEEE Bilkent Code-IT or Leave It Challenge!
+*Note for GitHub Developers*
+_This is a problem prepared by me for IEEE Bilkent Student Branch "Code-IT or Leave It!" Warmup Round 2022. This was the Problem A, and this repository is prepared to make other developers fork the problem and contribute to the repository by enhancing the approaches to the problem to bring out much better solutions. Eveyone is allowed to derive new problems by forking these problems from IEEE Bilkent Code-IT or Leave It Challenge!_
 
 # **Introduction**
 Two Bilkenters, Cenk and Buse (Names do not have any relationship with real people :D), decide to compete with each other to decide who is the real "The Smartest Student" of their department since half of their department agree on Cenk and the other half believes that it's Buse! Therefore, they meet at EEE building, and challenge each other about who takes an integral more quickly! Then, Cenk and Buse share their competition method with other students, so that they also duel with each other. Now let's see what kind of a Geek Problem they have about this challenge...
